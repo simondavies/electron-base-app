@@ -1,7 +1,7 @@
 # Electron Base App
 A simple basic Electron base set up.  Some type of boilerplate to start a/add to project, to save time.
 
-### this install is currently for Mac OSX and is in constant developement.
+#### this install has only been tested and used on Mac OSX.
 __Use the master branch for the latest stable verison.__
 
 For the moment to install, clone the repo:
